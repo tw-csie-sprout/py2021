@@ -14,5 +14,5 @@
 ### 03/13
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
-| 邏輯判斷、if               |      |      | [if-else & Conditional Statements(條件式)](https://drive.google.com/file/d/1pM4q0rCDCHtZLl_t8C0y15tmwIeHP6ho/view?usp=sharing) |
-| 迴圈、while | | | [Python 3 while](https://drive.google.com/file/d/1Iri-bOxKsRO9o3BFfi6Ck64AKu-IZDAb/view?usp=sharing) |
+| 邏輯判斷、if               |  [if-else](https://drive.google.com/file/d/1GgiB09kKqbP1Aw-ojfJ4peK-RHIcTL6z/view?usp=sharing)    |      | [if-else & Conditional Statements(條件式)](https://drive.google.com/file/d/1pM4q0rCDCHtZLl_t8C0y15tmwIeHP6ho/view?usp=sharing) |
+| 迴圈、while | [while](https://drive.google.com/file/d/1neF7Gb7O50aWHhmukCUh33KKTN6xebFy/view?usp=sharing) | | [Python 3 while](https://drive.google.com/file/d/1Iri-bOxKsRO9o3BFfi6Ck64AKu-IZDAb/view?usp=sharing) |
