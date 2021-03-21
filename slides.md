@@ -2,7 +2,7 @@
 
 > 竹區本週 Sli.do 407589
 
-## 第一週投影片 
+## 第一階段投影片 
 ### 03/06
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
@@ -23,4 +23,5 @@
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
 | 迴圈、for | [for](https://drive.google.com/file/d/1a91AcD1h3cqO4VvQpNMp0S8QRDxkYtuP/view?usp=sharing)| | [for loop](https://docs.google.com/presentation/d/14SZZyx-YFgtX4LzeB9CyGDH7idfv80tIADtO7Za-B3U/) |
-| 列表 list | | | [list](https://drive.google.com/file/d/1kNZOkOkwwEUjzT6zprJQwVwsQMlXUO8y/view?usp=sharing) |
+| 列表 list | [list](https://drive.google.com/file/d/1EEsrCvpSB2asnNRey3EqJBsJxDsm_e_2/view?usp=sharing) | | [list](https://drive.google.com/file/d/1kNZOkOkwwEUjzT6zprJQwVwsQMlXUO8y/view?usp=sharing) |
+
