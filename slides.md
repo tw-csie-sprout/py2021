@@ -23,3 +23,8 @@
 | 迴圈、for | [for](https://drive.google.com/file/d/1a91AcD1h3cqO4VvQpNMp0S8QRDxkYtuP/view?usp=sharing)| | [for loop](https://docs.google.com/presentation/d/14SZZyx-YFgtX4LzeB9CyGDH7idfv80tIADtO7Za-B3U/) |
 | 列表 list | [list](https://drive.google.com/file/d/1EEsrCvpSB2asnNRey3EqJBsJxDsm_e_2/view?usp=sharing) | | [list](https://drive.google.com/file/d/1kNZOkOkwwEUjzT6zprJQwVwsQMlXUO8y/view?usp=sharing) |
 
+### Week 4 (3/27-28)
+| 主題                       | 北區 | 影片 | 竹區                                                                                                 |
+| -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
+| String、Dict | | | [String 字串](https://drive.google.com/file/d/1CPHHlrMkPBGduVLTyXkO3BePaBzA1CVm/view)|
+| 迴圈、while | | | [Dict 字典](https://hackmd.io/@Sylveon/Hkp8Aa9Ed)  |
