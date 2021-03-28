@@ -26,5 +26,5 @@
 ### Week 4 (3/27-28)
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
-| String、Dict | | | [String 字串](https://drive.google.com/file/d/1CPHHlrMkPBGduVLTyXkO3BePaBzA1CVm/view)|
-| 迴圈、while | | | [Dict 字典](https://hackmd.io/@Sylveon/Hkp8Aa9Ed)  |
+| String |[String](https://drive.google.com/file/d/1UGQYHhbCMau4bRLEoF6Mv1Xt2-uybmGW/view?usp=sharing) | | [String 字串](https://drive.google.com/file/d/1CPHHlrMkPBGduVLTyXkO3BePaBzA1CVm/view)|
+| Dictionary |[Dictionary](https://drive.google.com/file/d/1M9lhUEPVSV12OP_Z0Hkh9ijjO-2kgAbD/view?usp=sharing) | | [Dict 字典](https://hackmd.io/@Sylveon/Hkp8Aa9Ed)  |
