@@ -28,3 +28,9 @@
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
 | String |[String](https://drive.google.com/file/d/1UGQYHhbCMau4bRLEoF6Mv1Xt2-uybmGW/view?usp=sharing) | | [String 字串](https://drive.google.com/file/d/1CPHHlrMkPBGduVLTyXkO3BePaBzA1CVm/view)|
 | Dictionary |[Dictionary](https://drive.google.com/file/d/1M9lhUEPVSV12OP_Z0Hkh9ijjO-2kgAbD/view?usp=sharing) | | [Dict 字典](https://hackmd.io/@Sylveon/Hkp8Aa9Ed)  |
+
+### Week 5 (4/10-11)
+| 主題                       | 北區 | 影片 | 竹區                                                                                                 |
+| -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
+| Function | | | [Function](https://drive.google.com/file/d/1dpLRBhQab_lsuyJf1mEAKmLJYLgn5GjL/view?usp=sharing)|
+| 大作業 | | | [大作業](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)  |
