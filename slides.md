@@ -1,6 +1,6 @@
 # 課程講義
 
-## 第一階段投影片 
+## 第一階段投影片
 ### Week 1 (3/6-7)
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
@@ -33,4 +33,4 @@
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
 | Function | | | [Function](https://drive.google.com/file/d/1dpLRBhQab_lsuyJf1mEAKmLJYLgn5GjL/view?usp=sharing)|
-| 大作業 | | | [大作業](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)  |
+| 大作業 | [大作業簡報](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)、[大作業說明](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkNyXCUrO)（兩區相同）  |
