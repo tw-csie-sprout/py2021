@@ -34,3 +34,9 @@
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
 | Function | [Function](https://drive.google.com/file/d/1Pmy3uqwWaav5MUNoonH8Vfs4hzYFaek1/view?usp=sharing) | | [Function](https://drive.google.com/file/d/1dpLRBhQab_lsuyJf1mEAKmLJYLgn5GjL/view?usp=sharing)|
 | 大作業 | [大作業簡報](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)、[大作業說明](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkNyXCUrO)（兩區相同）  |
+
+### Week 6 (4/10-11)
+| 主題                       | 北區 | 影片 | 竹區                                                                                                 |
+| -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
+| import | | |[module](https://drive.google.com/drive/u/0/folders/1Cz0yyVZfpe2r980ieZ-N0uk9NfUJxDZa)|
+| 大作業練習 | | | [大作業練習]() |
