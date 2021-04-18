@@ -38,5 +38,5 @@
 ### Week 6 (4/10-11)
 | 主題                       | 北區 | 影片 | 竹區                                                                                                 |
 | -------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
-| import | | |[module](https://drive.google.com/file/d/1pnUWtPWeRNM6-k-QJPYHO2mVCD1vNEwB/view?usp=sharing)|
+| import |[import](https://drive.google.com/file/d/1rBZs-HSJ0-Km_3Zoi4NHlVne_56o3rIE/view?usp=sharing) | |[module](https://drive.google.com/file/d/1pnUWtPWeRNM6-k-QJPYHO2mVCD1vNEwB/view?usp=sharing)|
 | 大作業練習 | | | [大作業解說](https://hackmd.io/@pcchou/rkIxZdeIO)|
