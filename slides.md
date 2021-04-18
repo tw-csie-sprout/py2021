@@ -14,7 +14,6 @@
 | -------------------------- | ---- | ---- |
 | 邏輯判斷、if               |  [if-else](https://drive.google.com/file/d/1GgiB09kKqbP1Aw-ojfJ4peK-RHIcTL6z/view?usp=sharing)    | [if-else & Conditional Statements(條件式)](https://drive.google.com/file/d/1pM4q0rCDCHtZLl_t8C0y15tmwIeHP6ho/view?usp=sharing) |
 | 迴圈、while | [while](https://drive.google.com/file/d/1neF7Gb7O50aWHhmukCUh33KKTN6xebFy/view?usp=sharing) | [Python 3 while](https://drive.google.com/file/d/1Iri-bOxKsRO9o3BFfi6Ck64AKu-IZDAb/view?usp=sharing) |
-|  |  |  |
 
 
 
@@ -34,10 +33,10 @@
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | Function | [Function](https://drive.google.com/file/d/1Pmy3uqwWaav5MUNoonH8Vfs4hzYFaek1/view?usp=sharing) | [Function](https://drive.google.com/file/d/1dpLRBhQab_lsuyJf1mEAKmLJYLgn5GjL/view?usp=sharing) |
-| 大作業 | [大作業簡報](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)、[大作業說明](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkNyXCUrO)（兩區相同）  ||
+| 大作業 | [大作業簡報](https://drive.google.com/file/d/1SXHQloThUAMavZMfH6DCnIakhQTnzE_-/view?usp=sharing)、[大作業說明](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkNyXCUrO) |  （兩區相同）|
 
-### Week 6 (4/10-11)
+### Week 6 (4/17-18)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | import |[import](https://drive.google.com/file/d/1rBZs-HSJ0-Km_3Zoi4NHlVne_56o3rIE/view?usp=sharing) | [module](https://drive.google.com/file/d/1pnUWtPWeRNM6-k-QJPYHO2mVCD1vNEwB/view?usp=sharing) |
-| 大作業練習 | | [大作業解說](https://hackmd.io/@pcchou/rkIxZdeIO) |
+| 大作業練習 | （兩區相同） | [大作業解說](https://hackmd.io/@pcchou/rkIxZdeIO) |
