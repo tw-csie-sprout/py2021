@@ -40,3 +40,10 @@
 | -------------------------- | ---- | ---- |
 | import |[import](https://drive.google.com/file/d/1rBZs-HSJ0-Km_3Zoi4NHlVne_56o3rIE/view?usp=sharing) | [module](https://drive.google.com/file/d/1pnUWtPWeRNM6-k-QJPYHO2mVCD1vNEwB/view?usp=sharing) |
 | 大作業練習 | （兩區相同） | [大作業解說](https://hackmd.io/@pcchou/rkIxZdeIO) |
+
+
+### Week 7 (4/24-25)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| 衛教 | | [Be a better programmer](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view?usp=sharing) |
+| 複習 |  | [Review](https://drive.google.com/file/d/11p5sqjQdZleqDmry0pM1kmAhDKmfMu2V/view?usp=sharing) |
