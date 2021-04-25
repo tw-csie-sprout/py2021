@@ -45,5 +45,5 @@
 ### Week 7 (4/24-25)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
-| 衛教 | | [Be a better programmer](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view?usp=sharing) |
-| 複習 |  | [Review](https://drive.google.com/file/d/11p5sqjQdZleqDmry0pM1kmAhDKmfMu2V/view?usp=sharing) |
+| 衛教 | [Tips](https://drive.google.com/file/d/1XnzXVj_6KAzbU7MNystJ4PVJA0TQGH_K/view?usp=sharing) | [Be a better programmer](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view?usp=sharing) |
+| 複習 | [Review](https://hackmd.io/@robert1003/ryh0gIt8d#/) | [Review](https://drive.google.com/file/d/11p5sqjQdZleqDmry0pM1kmAhDKmfMu2V/view?usp=sharing) |
