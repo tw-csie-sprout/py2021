@@ -41,6 +41,6 @@
 | 13   | 0530     | 0529     |大作業公布  |Chat Bot |
 | 14   | 0606     | 0605     |	          |numpy, matplotlib 介紹、影像處理(pillow) |
 | 15   | 0613     | 0612     |            |端午連假，本週停課一次 |
-| 16   | 0620     | 0619     |作業三公布  |python 前後端framework |
+| 16   | 0620     | 0619     |		  |python 前後端framework |
 | 17   | 0627     | 0626     |            |場地因素，本週停課一次，開放線上問答 |
 | 18   | 0704     | 0703     |作業Deadline|time complexity、link list 等資料結構介紹 |
