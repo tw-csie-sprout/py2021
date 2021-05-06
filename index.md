@@ -35,12 +35,12 @@
 
 | 週次 | 日期(北) | 日期(竹) | 作業       | 主題                                   |
 | ---- | -------- | -------- |:----------:|:-------------------------------------- |
-| 10   | 0509     | 0508     |            |二階課程介紹、Pygane、Class |
+| 10   | 0509     | 0508     |            |二階課程介紹、Pygame、Class |
 | 11   | 0516     | 0515     |		  |File I/O (json, pickle, csv)、try catch, regular expression |
-| 12   | 0523     | 0522     |            |爬蟲(requests, bs4, html concept) |
+| 12   | 0523     | 0522     |            |爬蟲 (requests, bs4, html concept) |
 | 13   | 0530     | 0529     |大作業公布  |Chat Bot |
-| 14   | 0606     | 0605     |	          |numpy, matplotlib 介紹、影像處理(pillow) |
+| 14   | 0606     | 0605     |	          |numpy, matplotlib 介紹、影像處理 (pillow) |
 | 15   | 0613     | 0612     |            |端午連假，本週停課一次 |
-| 16   | 0620     | 0619     |		  |python 前後端framework |
+| 16   | 0620     | 0619     |		  |python 前後端 framework |
 | 17   | 0627     | 0626     |            |場地因素，本週停課一次，開放線上問答 |
 | 18   | 0704     | 0703     |作業Deadline|time complexity、link list 等資料結構介紹 |
