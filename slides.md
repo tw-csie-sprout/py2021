@@ -47,3 +47,10 @@
 | -------------------------- | ---- | ---- |
 | 衛教 | [Tips](https://drive.google.com/file/d/1IKr4tCnRaApeU3rWSNqj-OhR9hFkWDlz/view?usp=sharing) | [Be a better programmer](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view?usp=sharing) |
 | 複習 | [Review](https://hackmd.io/@robert1003/ryh0gIt8d#/) | [Review](https://drive.google.com/file/d/11p5sqjQdZleqDmry0pM1kmAhDKmfMu2V/view?usp=sharing) |
+
+## 第二階段投影片
+### Week 9 (5/8-5/9)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| 課程介紹  | | [課程介紹](https://drive.google.com/file/d/1lnDjlxdk41JtH1fxv5-LxNKTNOXOUopm/view?usp=sharing)  |
+| Class |  | [Class](https://hackmd.io/@Sylveon/r15yo2Zdd#/) |
