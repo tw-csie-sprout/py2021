@@ -53,4 +53,5 @@
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | 課程介紹  |[課程介紹](https://drive.google.com/file/d/18ncjxupYEOq856aQ1AO0v2BJEVwAXk8K/view?usp=sharing) | [課程介紹](https://drive.google.com/file/d/1lnDjlxdk41JtH1fxv5-LxNKTNOXOUopm/view?usp=sharing)  |
-| Class |  | [Class](https://hackmd.io/@Sylveon/r15yo2Zdd#/) |
+| Class | [Class](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/SyCQD83PO) | [Class](https://hackmd.io/@Sylveon/r15yo2Zdd#/) |
+| Pygame | [Pygame](https://drive.google.com/file/d/1Ve75Tsh31zwImmrmz1w-42hR_09EM9EL/view?usp=drivesdk) | |
