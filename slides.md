@@ -55,3 +55,11 @@
 | 課程介紹  |[課程介紹](https://drive.google.com/file/d/18ncjxupYEOq856aQ1AO0v2BJEVwAXk8K/view?usp=sharing) | [課程介紹](https://drive.google.com/file/d/1lnDjlxdk41JtH1fxv5-LxNKTNOXOUopm/view?usp=sharing)  |
 | Class | [Class](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/SyCQD83PO) | [Class](https://hackmd.io/@Sylveon/r15yo2Zdd#/) |
 | Pygame | [Pygame](https://drive.google.com/file/d/1Ve75Tsh31zwImmrmz1w-42hR_09EM9EL/view?usp=drivesdk) [練習檔案](https://drive.google.com/file/d/1Q_nxZYDCqGA38cHw7gqZ5Zs1K7Oik3eB/view?usp=sharing) [統神](https://drive.google.com/file/d/121VciBHGdqazCZEGzIuk5kdl4ArAMe0-/view?usp=sharing) | |
+
+
+### Week 10 (5/15-5/16)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| FileIO(csv, json, pickle)  || [從記憶體到硬碟](https://drive.google.com/file/d/1aOJBUgV8BHQ2sA-v8A51dv7gdeeonNXD/view?usp=sharing)、[<練習範例的 Code>](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view?usp=sharing) |
+| Try Catch | |[tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
+| Regex || [tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  | |
