@@ -60,6 +60,6 @@
 ### Week 10 (5/15-5/16)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
-| FileIO(csv, json, pickle)  || [從記憶體到硬碟](https://drive.google.com/file/d/1aOJBUgV8BHQ2sA-v8A51dv7gdeeonNXD/view?usp=sharing)、[<練習範例的 Code>](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view?usp=sharing) |
-| Try Catch | |[tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
-| Regex || [tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  | |
+| FileIO(csv, json, pickle)  | [File I/O](https://hackmd.io/-HkTJRLGSQWEMl3f4N91Fw) | [從記憶體到硬碟](https://drive.google.com/file/d/1aOJBUgV8BHQ2sA-v8A51dv7gdeeonNXD/view?usp=sharing)、[<練習範例的 Code>](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view?usp=sharing) |
+| Try Catch | [Try Except](https://hackmd.io/DYneVsUtTEmVZ4qL-afENA) |[tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
+| Regex | [Regex](https://drive.google.com/file/d/1yPKzaZOPPwB3AAM6i_C32c-v2zRxYPEx/view?usp=sharing) | [tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  | |
