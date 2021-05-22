@@ -16,4 +16,5 @@
 ## 第二階段
 | 日期  | 週次 | 上課練習                                 | 勾選作業               | 其他習題                                  | 檢討               |
 | :---: | :--: | :--------------------------------------- | :----------------- | :----------------------------------- | :--------------- |
-| 0515 |  09  | [8763](https://neoj.sprout.tw/problem/8763/) | [Regex 練習作業](https://hackmd.io/@robert1003/HyI22hhuO)、[繳交表單](https://forms.gle/WTNx5aLMSHypoc1t5) | |
+| 0515 |  11  | [8763](https://neoj.sprout.tw/problem/8763/) | [Regex 練習作業](https://hackmd.io/@robert1003/HyI22hhuO)、[繳交表單](https://forms.gle/WTNx5aLMSHypoc1t5) | |
+| 0515 |  12  |  | [bs4 練習作業](https://hackmd.io/@pcchou/py2021-scraping)、[繳交表單](https://forms.gle/fLHzYZ9CvxdPussw5) | |

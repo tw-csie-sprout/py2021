@@ -64,3 +64,8 @@
 | Try Catch | [Try Except](https://hackmd.io/@robert1003/BkPX9EU_d) |[tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
 | Regex | [Regex](https://drive.google.com/file/d/1yPKzaZOPPwB3AAM6i_C32c-v2zRxYPEx/view?usp=sharing) | [tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
 
+### Week 11 (5/22-5/23)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| 爬蟲 (html concept, requests)  |  | [爬蟲 Crawler](https://drive.google.com/file/d/1mjjFzaAsN9uqaMeluKsL0S5rpUMSPdCt/view) |
+| 爬蟲 (bs4) |  |[Scraping with Python and BeautifulSoup4](https://hackmd.io/@pcchou/sprout-0522)  |
