@@ -69,3 +69,9 @@
 | -------------------------- | ---- | ---- |
 | 爬蟲 (html concept, requests)  | [爬蟲](https://drive.google.com/file/d/1j__HsD32Tn987a5w2NwkS8KjObVziemh/view?usp=sharing) | [爬蟲 Crawler](https://drive.google.com/file/d/1mjjFzaAsN9uqaMeluKsL0S5rpUMSPdCt/view) |
 | 爬蟲 (bs4) | （同上） |[Scraping with Python and BeautifulSoup4](https://hackmd.io/@pcchou/sprout-0522)  |
+
+
+### Week 12 (5/29-)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+|  ChatBot |  | [Discord Bot Headstart](https://docs.google.com/presentation/d/1Tp3Vjk_xhBLfVKXu6zUDP_IIx3F8zVBBYExCKmsul98/) |
