@@ -74,4 +74,4 @@
 ### Week 12 (5/29-)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
-|  ChatBot |  | [Discord Bot Headstart](https://docs.google.com/presentation/d/1Tp3Vjk_xhBLfVKXu6zUDP_IIx3F8zVBBYExCKmsul98/) |
+|  ChatBot | [Discord Bot 簡報](https://drive.google.com/file/d/1ZdXhgMGLEAKFpxJ5QCvk65IC-2OxAK2b/view?usp=sharing)、[note](note/大作業 note.html)、[大作業檔案](https://drive.google.com/file/d/1WmLzAQiEmR_0g0IDNK7Idrje7TgIyRq4/view?usp=sharing)、[大作業說明](https://hackmd.io/@bnCOpTWwRZ2THVyx87qBvQ/SJEZlEuO_) | [Discord Bot Headstart](https://docs.google.com/presentation/d/1Tp3Vjk_xhBLfVKXu6zUDP_IIx3F8zVBBYExCKmsul98/) |
