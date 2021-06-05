@@ -49,7 +49,7 @@
 | 複習 | [Review](https://hackmd.io/@robert1003/ryh0gIt8d#/) | [Review](https://drive.google.com/file/d/11p5sqjQdZleqDmry0pM1kmAhDKmfMu2V/view?usp=sharing) |
 
 ## 第二階段投影片
-### Week 9 (5/8-5/9)
+### Week 10 (5/8-5/9)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | 課程介紹  |[課程介紹](https://drive.google.com/file/d/18ncjxupYEOq856aQ1AO0v2BJEVwAXk8K/view?usp=sharing) | [課程介紹](https://drive.google.com/file/d/1lnDjlxdk41JtH1fxv5-LxNKTNOXOUopm/view?usp=sharing)  |
@@ -57,21 +57,27 @@
 | Pygame | [Pygame](https://drive.google.com/file/d/1Ve75Tsh31zwImmrmz1w-42hR_09EM9EL/view?usp=drivesdk) [練習檔案](https://drive.google.com/file/d/1Q_nxZYDCqGA38cHw7gqZ5Zs1K7Oik3eB/view?usp=sharing) [統神](https://drive.google.com/file/d/121VciBHGdqazCZEGzIuk5kdl4ArAMe0-/view?usp=sharing) | |
 
 
-### Week 10 (5/15-5/16)
+### Week 11 (5/15-5/16)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | FileIO(csv, json, pickle)  | [File I/O](https://hackmd.io/@robert1003/BkjOrzb9L) | [從記憶體到硬碟](https://drive.google.com/file/d/1aOJBUgV8BHQ2sA-v8A51dv7gdeeonNXD/view?usp=sharing)、[<練習範例的 Code>](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view?usp=sharing) |
 | Try Catch | [Try Except](https://hackmd.io/@robert1003/BkPX9EU_d) |[tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
 | Regex | [Regex](https://drive.google.com/file/d/1yPKzaZOPPwB3AAM6i_C32c-v2zRxYPEx/view?usp=sharing) | [tryexcept_regex](https://drive.google.com/file/d/1GsWapcoeyXJ2Ksu8m8ral0aeTCsWEOAf/view?usp=sharing)  |
 
-### Week 11 (5/22-5/23)
+### Week 12 (5/22-5/23)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | 爬蟲 (html concept, requests)  | [爬蟲](https://drive.google.com/file/d/1j__HsD32Tn987a5w2NwkS8KjObVziemh/view?usp=sharing) | [爬蟲 Crawler](https://drive.google.com/file/d/1mjjFzaAsN9uqaMeluKsL0S5rpUMSPdCt/view) |
 | 爬蟲 (bs4) | （同上） |[Scraping with Python and BeautifulSoup4](https://hackmd.io/@pcchou/sprout-0522)  |
 
 
-### Week 12 (5/29-)
+### Week 13 (5/29-5/30)
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 |  ChatBot | [Discord Bot 簡報](https://drive.google.com/file/d/1ZdXhgMGLEAKFpxJ5QCvk65IC-2OxAK2b/view?usp=sharing)、[note](note/discordnote.html)、[大作業檔案](https://drive.google.com/file/d/1WmLzAQiEmR_0g0IDNK7Idrje7TgIyRq4/view?usp=sharing)、[大作業說明](https://hackmd.io/@bnCOpTWwRZ2THVyx87qBvQ/SJEZlEuO_) | [Discord Bot Headstart](https://docs.google.com/presentation/d/1Tp3Vjk_xhBLfVKXu6zUDP_IIx3F8zVBBYExCKmsul98/) |
+
+### Week 14 (5/29-5/30)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| 影像處理 (pillow) ||[開始吧！](https://hackmd.io/@William-Mou/SkIq0__qd#/)、[下載內容](https://drive.google.com/file/d/1miwUsbovF4bK8kW_agE4oafD8-VfOubG/view?usp=sharing)|
+| numpy, matplotlib 介紹| ||
