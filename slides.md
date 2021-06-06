@@ -76,7 +76,7 @@
 | -------------------------- | ---- | ---- |
 |  ChatBot | [Discord Bot 簡報](https://drive.google.com/file/d/1ZdXhgMGLEAKFpxJ5QCvk65IC-2OxAK2b/view?usp=sharing)、[note](note/discordnote.html)、[大作業檔案](https://drive.google.com/file/d/1WmLzAQiEmR_0g0IDNK7Idrje7TgIyRq4/view?usp=sharing)、[大作業說明](https://hackmd.io/@bnCOpTWwRZ2THVyx87qBvQ/SJEZlEuO_) | [Discord Bot Headstart](https://docs.google.com/presentation/d/1Tp3Vjk_xhBLfVKXu6zUDP_IIx3F8zVBBYExCKmsul98/) |
 
-### Week 14 (5/29-5/30)
+### Week 14 (6/5~6/6))
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | 影像處理 (pillow) | [投影片和相關資料](https://drive.google.com/drive/folders/1zkZBi2m4ADN-_B0-xUC7AZGGdKYQ6zul?usp=sharing) |[開始吧！](https://hackmd.io/@William-Mou/SkIq0__qd#/)、[下載內容](https://drive.google.com/file/d/1miwUsbovF4bK8kW_agE4oafD8-VfOubG/view?usp=sharing)|
