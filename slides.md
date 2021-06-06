@@ -80,4 +80,4 @@
 | 主題                       | 北區 | 竹區 |
 | -------------------------- | ---- | ---- |
 | 影像處理 (pillow) | [投影片和相關資料](https://drive.google.com/drive/folders/1zkZBi2m4ADN-_B0-xUC7AZGGdKYQ6zul?usp=sharing) |[開始吧！](https://hackmd.io/@William-Mou/SkIq0__qd#/)、[下載內容](https://drive.google.com/file/d/1miwUsbovF4bK8kW_agE4oafD8-VfOubG/view?usp=sharing)|
-| numpy, matplotlib 介紹| ||
+| numpy, matplotlib 介紹| [資料處理入門](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/HkGKgbRFu) ||
