@@ -88,3 +88,8 @@
 | -------------------------- | ---- | ---- |
 | 前後端 (Flask) |[Flask](https://drive.google.com/file/d/1-wxntDIVvZgscI7Y-tucjcdAArdm7r1i/view?usp=sharing) |[開始吧！](https://drive.google.com/file/d/1Q_Q1T2PLerxDmujtoHPtZpYM-sqXL6na/view?usp=sharing)、[下載內容](https://drive.google.com/file/d/1jV0irgQ4s83b4jJrlNZHYYLDNEtq2xPh/view?usp=sharing)|
 
+### Week 16 (6/19~6/20)
+| 主題                       | 北區 | 竹區 |
+| -------------------------- | ---- | ---- |
+| 演算法 | |[開始吧！](https://hackmd.io/@polarz/BJ5Me163O)|
+|未來展望| | [然後呢？](https://hackmd.io/@William-Mou/SkALwC2nu#/)|
