@@ -20,5 +20,3 @@
 | 0515 |  12  |  | [bs4 練習作業](https://hackmd.io/@pcchou/py2021-scraping)、[繳交表單](https://forms.gle/fLHzYZ9CvxdPussw5) | |
 | 0529 |  13  |  | [大作業說明](https://hackmd.io/@bnCOpTWwRZ2THVyx87qBvQ/SJEZlEuO_)、[繳交表單](https://forms.gle/aFR3X5VUDkMooD3R8) | |
 | 0605 |  14  |  | [視覺化作業說明](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/HkGKgbRFu#/7)、[繳交表單](https://forms.gle/JebCnxcJ8siCysk86) | |
-
-t510599
